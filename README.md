@@ -15,3 +15,5 @@ Módulos importados:
 2. sys
 3. zipfile
 4. tarfile
+
+Concluindo, este script tem as funções de, criar arquivos compremidos com ou sem arquivos, e, extração de arquivos compremidos.
