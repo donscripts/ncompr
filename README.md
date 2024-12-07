@@ -1,7 +1,7 @@
 # ncompr
 ncompr ( Novo Compremido )
 
-Este script serve para:
+Objetivo:
 1. Criação de arquivos compremidos vazios
 2. Criação de arquivos compremidos com conteudo
 3. Extração de arquivos compremidos
