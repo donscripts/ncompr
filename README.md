@@ -1,5 +1,4 @@
-# ncompr
-![](img.png)
+![ncompr](img.png)
 ncompr ( Novo Compremido )
 
 Objetivo:
