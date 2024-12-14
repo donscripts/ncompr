@@ -1,6 +1,6 @@
 ![](img.png)
 
-#ncompr ( Novo Compremido )
+# ncompr ( Novo Compremido )
 
 Objetivo:
 1. Criação de arquivos compremidos vazios
