@@ -1,4 +1,4 @@
-![](img.png)
+<img src="img.png" alt='imagem de capa' style="width:100%;">
 
 # ncompr ( Novo Compremido )
 
