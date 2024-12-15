@@ -1,4 +1,4 @@
-<img src="img.png" alt='imagem de capa' style="width:100%; height: 80%;">
+<img src="img.png" alt='imagem de capa' style="width:90%; height: 80%;">
 
 # ncompr ( Novo Compremido )
 
